@@ -1,12 +1,50 @@
-# React + Vite
+# 💼 Aditi Prakash — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ A sleek, modern, and fully responsive personal portfolio built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+🚀 Live Preview → [aditiprakash8709portfolio.netlify.app](https://aditiprakash8709portfolio.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio showcases my journey as a developer, featuring:
+
+- 📚 Educational background
+- 💡 Skills in frontend & core tech
+- 🌐 Projects with live links
+- 📞 Contact form
+- 🌙 Light/Dark mode toggle
+
+Built with a minimal aesthetic and smooth animations to make a strong first impression.
+
+---
+
+## ⚙️ Tech Stack
+
+| Tech         | Description                                 |
+|--------------|---------------------------------------------|
+| React        | Frontend library for building UI components |
+| Vite         | Fast build tool and dev server              |
+| Tailwind CSS | Utility-first CSS for fast styling          |
+| Framer Motion| Smooth and customizable animations          |
+| Netlify      | Free deployment platform                    |
+
+---
+
+## 📸 Screenshots
+
+> Want to see the project in action?  
+👉 [Click here to visit the live site](https://aditiprakash8709portfolio.netlify.app)
+
+---
+
+## 🔧 Setup Instructions
+
+Clone the repository and run it locally:
+
+```bash
+git clone https://github.com/your-username/Personal-Portfolio.git
+cd Personal-Portfolio
+npm install
+npm run dev
